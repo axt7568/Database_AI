@@ -8,7 +8,7 @@ import re
 # Python Database Function to extract data, translate data, sort data, validate data and match ultimately them.
 # The function is called using the main function.
 # The function automatically handles reading and writing to an excel file
-def database_function():a
+def database_function():
     parent_list_one = []
     parent_list_two = []
     cust_list_one = []
