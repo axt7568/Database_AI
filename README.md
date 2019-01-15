@@ -1,2 +1,2 @@
-# Database_AI
-Database AI project coded in python based on demands and requirements from a customer-figure.
+# Company_Record_Manager 
+Manages company records by ordering, eliminating, translating and arranging the records accordingly  
